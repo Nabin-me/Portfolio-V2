@@ -1,2 +1,11 @@
-# Portfolio-V2
-This is the second version of my personal portfolio to showcase all of my design works.
+# Portfolio V2
+
+Another year another Portfolio! This version is a much more focused but still rushed project where I have showcased some of my works through this portfolio site.
+
+
+
+## Features
+
+- Animated typing landing page
+- Smooth card animations
+- Easy navigation
